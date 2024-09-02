@@ -40,28 +40,31 @@ Before getting started, ensure you have the following installed:
    - Download the SDK from [Spatial Developer Docs](https://docs.spatial.io/sdk-unity).
    - Follow the installation instructions to set it up in Unity.
 
-⚙️ Unity Project Setup
-Open Unity and select Open Project.
-Navigate to the folder where the project was cloned.
-Make sure the Spatial Unity SDK is installed. If not, follow the setup guide in the Spatial SDK documentation.
-Configure the project for your preferred platform (desktop, VR, etc.).
-▶️ Running the Project
-In Unity, open the main scene of the project.
-Press Play to run the metaverse in development mode.
-To build the project, go to File > Build Settings, select the target platform, and click Build.
-🤝 Contributing
+## ⚙️ Unity Project Setup
+
+1. Open Unity and select **Open Project**.
+2. Navigate to the folder where the project was cloned.
+3. Make sure the **Spatial Unity SDK** is installed. If not, follow the setup guide in the [Spatial SDK documentation](https://docs.spatial.io/sdk-unity).
+4. Configure the project for your preferred platform (desktop, VR, etc.).
+
+## ▶️ Running the Project
+
+1. In Unity, open the main scene of the project.
+2. Press **Play** to run the metaverse in development mode.
+3. To build the project, go to **File > Build Settings**, select the target platform, and click **Build**.
+
+## 🤝 Contributing
+
 Contributions are welcome! If you'd like to help improve the project:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-new-feature).
-Commit your changes (git commit -m 'Add new feature').
-Push to the branch (git push origin feature-new-feature).
-Open a Pull Request.
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-new-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-new-feature`).
+5. Open a Pull Request.
 
-📧 Contact
+## 📧 Contact
+
 Feel free to reach out with any questions or suggestions:
 
-Developer: Eddie Jonathan Garcia Borbon
-📧 Email: your-email@example.com
+- **Developer**: Eddie Jonathan Garcia Borbon
